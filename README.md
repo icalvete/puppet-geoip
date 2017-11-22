@@ -9,7 +9,7 @@ See [MaxMind site](http://dev.maxmind.com/geoip/legacy/geolite/)
 
 This manifest install GeoIP (Country Level) and GeoLiteCity (City Level) databases
 
-## usage
+## Usage
 
 By default in /opt/geoip
 
@@ -23,7 +23,7 @@ class {'geoip':
 }
 ```
 
-## update
+## Update
 
 This manifest also install crons to update databases.
 
