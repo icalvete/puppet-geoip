@@ -1,0 +1,2 @@
+class geoip::config {
+}
